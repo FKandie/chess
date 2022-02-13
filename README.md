@@ -27,7 +27,7 @@ A chess game made with pure HTML, CSS and Javascript
 
 
 
->Chess Unavailable</iframe>
+
 ```
 
 ## How to run
