@@ -11,15 +11,15 @@ A chess game made with pure HTML, CSS and Javascript
 <!DOCTYPE html>
 <html>
 <head>
-				  <link rel="stylesheet" href="style.css">
-        <script src="script.js"></script>
-       <title>Ndai Chess</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+<title>Ndai Chess</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
 </head>
 <h1 id="gamename">Ndai Chess</h1>
 <body>
-    <div id="container"></div>
+<div id="container"></div>
 </body>
 </html>
 
