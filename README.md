@@ -1,6 +1,6 @@
 # Ndai Chess 
-
-A chess game made with pure HTML, CSS and Javascript
+This program is a JavaScript implementation of the board game Chess, with a computer player opponent. All move types are supported, including en passant, castling and promotion.
+.At least Internet Explorer (8 or later), Chrome and Firefox should work.
 
 # Code
 - index.html
