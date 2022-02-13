@@ -2,6 +2,18 @@
 
 A chess game made with pure HTML, CSS and Javascript
 
+# Code
+```HTML
+<iframe src="https://chess.mmbultra.com"
+title="Chess" 
+width="600px" 
+height="600px"
+style="
+border: 2px solid black;
+"
+>Chess Unavailable</iframe>
+```
+
 ## How to run
 
 1. Clone the repository with `git clone https://github.com/FKandie/chess.git`
