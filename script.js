@@ -1,4 +1,4 @@
-// Created by Adnan Zawad Toky
+// Created by Felix Kandie
 
 window.onload = function(){
     var w = window.innerWidth || 360;
